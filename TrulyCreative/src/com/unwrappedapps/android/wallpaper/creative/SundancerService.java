@@ -50,5 +50,12 @@ public class SundancerService extends GLWallpaperService {
         }
 
     }
+    static
+    {
+        System.loadLibrary ("optlist");
+        System.loadLibrary ("bzip2");
+        System.loadLibrary ("gl1");
+    }
+
 
 }
