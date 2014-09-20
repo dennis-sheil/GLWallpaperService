@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="service_label">Truly Creative live wallpaper</string>
+    <string name="description">A live wallpaper</string>
+
+   <string name="app_name">Truly Creative live wallpaper</string>
+   <string name="author">Unwrapped Apps</string>
+
+   <string name="tunnel_name">Hufo tunnel</string>
+   <string name="tunnel_description">Tunnel travel</string>
+   <string name="tunnel_settings">Settings</string>
+   <string name="tunnel_coarseness_settings_title">Select coarseness</string>
+   <string name="tunnel_coarseness_settings_summary">Choose coarseness</string>
+
+   <string name="sundancer_name">Sundancer</string>
+   <string name="sundancer_description">Dancing sun</string>
+   <string name="sundancer_settings">Settings</string>
+   <string name="sundancer_quad_settings_title">Select sunbeams</string>
+   <string name="sundancer_quad_settings_summary">Choose number of sunbeams</string>
+
+   <string name="lattice_name">Lattices</string>
+   <string name="lattice_description">Explore lattices</string>
+   <string name="lattice_settings">Settings</string>
+   <string name="lattice_speed_settings_title">Select speed</string>
+   <string name="lattice_speed_settings_summary">Choose travel speed</string>
+
+
+</resources>
